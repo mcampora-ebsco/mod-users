@@ -9,6 +9,8 @@ Version 2.0. See the file "[LICENSE](LICENSE)" for more information.
 
 Module to provide central user management for FOLIO systems.
 
+Forket to test dependabot is a repo I own.
+
 ## Prerequisites
 
 * Java 11 JDK

@@ -22,6 +22,11 @@ jobs:
         language: [ 'java' ]
 
     steps:
+    - uses: actions/setup-java@v4
+      with:
+        distribution: temurin
+        java-version: 17
+  
     - name: Checkout repository
       uses: actions/checkout@v3
 
